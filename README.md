@@ -11,7 +11,8 @@
   </br>
 </br>
   </p>  
- * [About the Project](#about-the-project)  
+  
+* [About the Project](#about-the-project)  
 
 ## About The project
 The verification bot checks the email provided against blacklist databases and check to see if it's verified.
