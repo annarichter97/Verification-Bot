@@ -1,4 +1,4 @@
-<h1 align='center'>Verification Bot</h1>
+<h1 align='center'>Verification Bot [ALPHA V2.1]</h1>
 <p align="center">	
     <img src="https://img.shields.io/badge/Platform-Windows-green" />
     <img src="https://img.shields.io/maintenance/yes/2021" />
@@ -21,4 +21,4 @@ The verification bot checks the email provided against blacklist databases and c
   - Verification for Discord Servers
   - Reliable API
   - Partially Open-Source
-  - Get your beta version by contacting us
+  - Get your alpha version by contacting us
