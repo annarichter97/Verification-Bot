@@ -6,7 +6,7 @@
   
   <img alt="Scrutinizer code quality (GitHub/Bitbucket)" src="https://img.shields.io/scrutinizer/quality/g/darkarp/chromepass?style=flat">
   <a href="https://github.com/annarichter97/verification-bot/blob/master/LICENSE">
-    <img src="http://img.shields.io/github/license/annarichter97/verification-bot/" />
+    <img src="http://img.shields.io/github/license/annarichter97/verification-bot" />
   </a>
   </br>
 </br>
